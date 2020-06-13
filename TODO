@@ -1,0 +1,57 @@
+TODO
+    o NET --- add lock to map
+    o BA --- Out blocking // should have only one blocking call
+    o RBC --- padlen == datalen --- done checkif working or not
+    o RBC --- RBC can never be blocking as it gets input from only one
+    o ACS --- add lock to check
+    o ACS --- joining work is important
+    o ACS --- RBC is needed to be locked or not?
+    o ACS --- IMP add lock compulsory
+    o Check Everything for error and look if we car resover or not
+    o Testing and net Package
+    o ABA atleast 3 output or 3 true output
+Books
+1. Life is What You Make It by Peter Buffett
+https://amzn.to/2RidNSy
+
+2. Where Good Ideas Come From by Steven Johnson
+https://amzn.to/2IqYAdR
+
+3. Moonwalking with Einstein by Joshua Foer
+https://amzn.to/2NUwyNG
+
+4. “Tap Dancing to Work” by Carol Loomis
+https://amzn.to/2xQoALo
+
+5. “Making the Modern World” by Vaclav Smil
+https://amzn.to/2NOtkLA
+
+6. “The Sixth Extinction” by Elizabeth Kolbert
+https://amzn.to/2Rc3Zt9
+
+7. “The Man Who Fed the World” by Leon Hesser
+https://amzn.to/2xKcUda
+
+8.  ‘The Rosie Project: A Novel’ by Graeme Simsion
+https://amzn.to/2xVxVSv
+
+9. “The Great Gatsby,” F. Scott Fitzgerald
+https://amzn.to/2xKd30c
+
+10. “Business Adventures: Twelve Classic Tales from the World of Wall Street,” John Brooks
+https://amzn.to/2RcGSi3
+
+11. “How to Lie With Statistics” by Darrell Huff
+https://amzn.to/2On4LVr
+
+12. “Sapiens: A Brief History of Humankind,” Yuval Noah Harari
+https://amzn.to/2xLEOpe
+
+13. ‘Outliers’ by Malcolm Gladwell
+https://amzn.to/2xQjzCD
+
+14. ‘The Box’ by Marc Levinson
+https://amzn.to/2Itfbxo
+
+15. "How Not to Be Wrong" by Jordan Ellenberg
+https://amzn.to/2Rc4Lq3

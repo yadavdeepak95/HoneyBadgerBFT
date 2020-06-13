@@ -1,0 +1,13 @@
+{
+  "connection": [":3000",":3001",":3002",":3003"],
+  "total": 4,
+  "tol": 1,
+  "batchSize": 100,
+  "index": 0,
+  "n" : 50,
+  "txn" : 100,
+  "size" : 16,
+  "random" : false, 
+  "fixed" : false,
+  "fixedTime" : 2
+}

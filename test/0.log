@@ -1,0 +1,3 @@
+{ConnectionList:[:3000 :3001 :3002 :3003] Total:4 Tol:1 BatchSize:100 Index:0 N:50 Txn:100 Size:16 Random:false Fixed:false FixedTime:2}2020/06/13 21:22:49 inFO LEVEL SET fixed[false]
+2020/06/13 21:22:49 fixed[false]
+2020/06/13 21:22:49 HoneyBadgerBFT Service listen at :3000
